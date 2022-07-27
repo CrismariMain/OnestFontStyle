@@ -1,0 +1,61 @@
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestBlack1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestBlack1602-hint.ttf") format("embedded-opentype");
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestExtraBold1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestExtraBold1602-hint.ttf") format("embedded-opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestBold1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestBold1602-hint.ttf") format("embedded-opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestMedium1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestMedium1602-hint.ttf") format("embedded-opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestRegular1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestRegular1602-hint.ttf") format("embedded-opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestLight1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestLight1602-hint.ttf") format("embedded-opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Onest";
+  src: url("./../Onest/WOFF/OnestThin1602-hint.woff") format("woff"),
+       url("./../Onest/TTF/OnestThin1602-hint.ttf") format("embedded-opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+body {
+  font-family: "Onest", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+}
